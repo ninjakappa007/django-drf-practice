@@ -1,1 +1,1 @@
-# django-drf-practice
+# django-drf-practice - ashu
